@@ -1,0 +1,20 @@
+{
+    "name": "acer/training-composer",
+    "description": "Training",
+    "require": {
+        "php": "7.3.30"
+    },
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Acer\\TrainingComposer\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Baktiar Mahardika",
+            "email": "bakhtiar.mahardika@sirclo.com"
+        }
+    ],
+    "minimum-stability": "stable"
+}
