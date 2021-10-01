@@ -1,5 +1,5 @@
 {
-    "name": "acer/training-composer",
+    "name": "LaptopAcers/training-composer",
     "description": "Training",
     "require": {
         "php": "7.3.30"
